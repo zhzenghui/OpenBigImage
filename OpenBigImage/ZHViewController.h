@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PZPhotoView.h"
 
-@interface ZHViewController : UIViewController
+
+@interface ZHViewController : UIViewController<PZPhotoViewDelegate>
 
 @end

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC2ADB45-93B2-4104-BF48-20E1925B0C02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenBigImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D573005-C573-4C48-B6DE-F2932F8D827B</key>
+		<string>https://github.com/zhzenghui/OpenBigImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenBigImage.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D573005-C573-4C48-B6DE-F2932F8D827B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhzenghui/OpenBigImage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5D573005-C573-4C48-B6DE-F2932F8D827B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D573005-C573-4C48-B6DE-F2932F8D827B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenBigImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>

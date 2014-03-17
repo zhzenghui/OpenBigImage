@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F431D08918D74E3900088EA2 /* PZPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = F431D08818D74E3900088EA2 /* PZPhotoView.m */; };
+		F431D08B18D74FE500088EA2 /* si-datu-bua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F431D08A18D74FE500088EA2 /* si-datu-bua.jpg */; };
+		F431D08D18D7514700088EA2 /* studio-wp-marketplace-permalink-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F431D08C18D7514700088EA2 /* studio-wp-marketplace-permalink-1.jpg */; };
 		F4ED91C218D726300065556D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4ED91C118D726300065556D /* Foundation.framework */; };
 		F4ED91C418D726300065556D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4ED91C318D726300065556D /* CoreGraphics.framework */; };
 		F4ED91C618D726300065556D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4ED91C518D726300065556D /* UIKit.framework */; };
@@ -34,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F431D08718D74E3900088EA2 /* PZPhotoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PZPhotoView.h; sourceTree = "<group>"; };
+		F431D08818D74E3900088EA2 /* PZPhotoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PZPhotoView.m; sourceTree = "<group>"; };
+		F431D08A18D74FE500088EA2 /* si-datu-bua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "si-datu-bua.jpg"; sourceTree = "<group>"; };
+		F431D08C18D7514700088EA2 /* studio-wp-marketplace-permalink-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "studio-wp-marketplace-permalink-1.jpg"; sourceTree = "<group>"; };
 		F4ED91BE18D726300065556D /* OpenBigImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenBigImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4ED91C118D726300065556D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F4ED91C318D726300065556D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -114,9 +121,13 @@
 			children = (
 				F4ED91D018D726300065556D /* ZHAppDelegate.h */,
 				F4ED91D118D726300065556D /* ZHAppDelegate.m */,
+				F431D08A18D74FE500088EA2 /* si-datu-bua.jpg */,
+				F431D08C18D7514700088EA2 /* studio-wp-marketplace-permalink-1.jpg */,
 				F4ED91D318D726300065556D /* Main.storyboard */,
 				F4ED91D618D726300065556D /* ZHViewController.h */,
 				F4ED91D718D726300065556D /* ZHViewController.m */,
+				F431D08718D74E3900088EA2 /* PZPhotoView.h */,
+				F431D08818D74E3900088EA2 /* PZPhotoView.m */,
 				F4ED91D918D726300065556D /* Images.xcassets */,
 				F4ED91C818D726300065556D /* Supporting Files */,
 			);
@@ -231,6 +242,8 @@
 			files = (
 				F4ED91DA18D726300065556D /* Images.xcassets in Resources */,
 				F4ED91CC18D726300065556D /* InfoPlist.strings in Resources */,
+				F431D08B18D74FE500088EA2 /* si-datu-bua.jpg in Resources */,
+				F431D08D18D7514700088EA2 /* studio-wp-marketplace-permalink-1.jpg in Resources */,
 				F4ED91D518D726300065556D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,6 +266,7 @@
 				F4ED91D818D726300065556D /* ZHViewController.m in Sources */,
 				F4ED91D218D726300065556D /* ZHAppDelegate.m in Sources */,
 				F4ED91CE18D726300065556D /* main.m in Sources */,
+				F431D08918D74E3900088EA2 /* PZPhotoView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,6 +475,7 @@
 				F4ED91F218D726310065556D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4ED91F318D726310065556D /* Build configuration list for PBXNativeTarget "OpenBigImageTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +484,7 @@
 				F4ED91F518D726310065556D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
